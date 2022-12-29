@@ -7,7 +7,7 @@
 
 -----
 
-### <p align="center">♙ Mag ♙</p>
+### <p align="center">🌍 Mag 🌍</p>
 
 <br><br>
 <p align="center">
