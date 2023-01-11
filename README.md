@@ -24,9 +24,8 @@ Hope it will pleased you
 </strong>
 </p>
 <br>
-
 <p align="center">
-<img src="https://user-images.githubusercontent.com/94129991/211867926-7cf2a314-722a-48bd-af58-1df9b19297cd.PNG", width="300", height="300">
+<img src="https://user-images.githubusercontent.com/94129991/211867926-7cf2a314-722a-48bd-af58-1df9b19297cd.PNG", width="400", height="400">
 </p>
 
 -----
